@@ -1,0 +1,196 @@
+:root {
+  --bg: #FBF4EA;
+  --ceibo: #B23A2E;
+  --ceibo-light: #D9695C;
+  --monte: #2F4B3C;
+  --dorado: #E8A33D;
+  --tierra: #3A2E28;
+  --panel-bg: #FFFDF9;
+
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--tierra);
+  font-family: var(--font-body);
+}
+
+.site-header {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 56px 24px 24px;
+  text-align: center;
+}
+
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ceibo);
+  font-weight: 600;
+  margin: 0 0 12px;
+}
+
+.site-header h1 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  margin: 0 0 16px;
+  color: var(--tierra);
+}
+
+.subtitle {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #5c4f45;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  padding: 24px;
+  flex-wrap: wrap;
+}
+
+.tree-wrap {
+  flex: 1 1 600px;
+  max-width: 720px;
+}
+
+#tree-svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.flower {
+  cursor: pointer;
+  transform-origin: center;
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.flower:hover,
+.flower:focus-visible {
+  filter: brightness(1.12);
+  outline: none;
+}
+
+.flower.selected circle.flower-core {
+  stroke: var(--dorado);
+  stroke-width: 4;
+}
+
+.flower-label {
+  font-family: var(--font-body);
+  font-size: 11px;
+  font-weight: 600;
+  fill: var(--tierra);
+  pointer-events: none;
+  text-anchor: middle;
+}
+
+/* Panel lateral */
+.panel {
+  flex: 1 1 320px;
+  max-width: 380px;
+  background: var(--panel-bg);
+  border: 1px solid #e9dfd2;
+  border-radius: 16px;
+  padding: 28px;
+  min-height: 420px;
+  position: relative;
+}
+
+.panel-hint {
+  color: #8a7c70;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.panel-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 1rem;
+  color: #8a7c70;
+  cursor: pointer;
+  display: none;
+}
+
+.panel.has-content .panel-close { display: block; }
+
+.panel-provincia {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 4px;
+  color: var(--ceibo);
+}
+
+.panel-total {
+  font-size: 0.95rem;
+  color: var(--tierra);
+  margin: 0 0 24px;
+}
+
+.panel-total strong {
+  font-size: 1.3rem;
+  font-family: var(--font-display);
+}
+
+.pueblo-row {
+  margin-bottom: 12px;
+}
+
+.pueblo-row-top {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  margin-bottom: 4px;
+}
+
+.pueblo-nombre {
+  font-weight: 500;
+}
+
+.pueblo-valor {
+  color: #8a7c70;
+}
+
+.bar-track {
+  background: #f0e7da;
+  border-radius: 4px;
+  height: 8px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  background: linear-gradient(90deg, var(--ceibo), var(--ceibo-light));
+  height: 100%;
+  border-radius: 4px;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 32px 24px 56px;
+  font-size: 0.8rem;
+  color: #a89a8c;
+}
+
+@media (max-width: 720px) {
+  main { flex-direction: column; align-items: stretch; }
+  .panel { max-width: none; }
+}

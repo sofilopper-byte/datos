@@ -1,0 +1,6636 @@
+{
+  "total_nacional": 674455,
+  "fuente": "INDEC, Censo Nacional de Población, Hogares y Viviendas 2022, Cuadros 8.1 a 8.24",
+  "provincias": [
+    {
+      "provincia": "Buenos Aires",
+      "mujeres_indigenas": 194001,
+      "pct_nacional": 28.76,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 93295,
+          "pct_provincia": 48.09,
+          "pct_nacional": 13.833
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 26765,
+          "pct_provincia": 13.8,
+          "pct_nacional": 3.968
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 16046,
+          "pct_provincia": 8.27,
+          "pct_nacional": 2.379
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 12992,
+          "pct_provincia": 6.7,
+          "pct_nacional": 1.926
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 8487,
+          "pct_provincia": 4.37,
+          "pct_nacional": 1.258
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 8391,
+          "pct_provincia": 4.33,
+          "pct_nacional": 1.244
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 4283,
+          "pct_provincia": 2.21,
+          "pct_nacional": 0.635
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 3207,
+          "pct_provincia": 1.65,
+          "pct_nacional": 0.475
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 2786,
+          "pct_provincia": 1.44,
+          "pct_nacional": 0.413
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 2739,
+          "pct_provincia": 1.41,
+          "pct_nacional": 0.406
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 2431,
+          "pct_provincia": 1.25,
+          "pct_nacional": 0.36
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 2247,
+          "pct_provincia": 1.16,
+          "pct_nacional": 0.333
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 2018,
+          "pct_provincia": 1.04,
+          "pct_nacional": 0.299
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 1926,
+          "pct_provincia": 0.99,
+          "pct_nacional": 0.286
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 984,
+          "pct_provincia": 0.51,
+          "pct_nacional": 0.146
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 794,
+          "pct_provincia": 0.41,
+          "pct_nacional": 0.118
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 737,
+          "pct_provincia": 0.38,
+          "pct_nacional": 0.109
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 503,
+          "pct_provincia": 0.26,
+          "pct_nacional": 0.075
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 383,
+          "pct_provincia": 0.2,
+          "pct_nacional": 0.057
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 363,
+          "pct_provincia": 0.19,
+          "pct_nacional": 0.054
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 279,
+          "pct_provincia": 0.14,
+          "pct_nacional": 0.041
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 228,
+          "pct_provincia": 0.12,
+          "pct_nacional": 0.034
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 226,
+          "pct_provincia": 0.12,
+          "pct_nacional": 0.034
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 204,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.03
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 192,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.028
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 170,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.025
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 163,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.024
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 155,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.023
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 148,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.022
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 138,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.02
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 91,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.013
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 91,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.013
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 77,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 73,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 68,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 56,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 43,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 42,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 29,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 27,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 25,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 20,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 15,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 13,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 8,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 8,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 8,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Jujuí",
+          "mujeres": 7,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 5,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 5,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Minuán",
+          "mujeres": 4,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Isoceño",
+          "mujeres": 2,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mak'A",
+          "mujeres": 2,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Alakaluf",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Churumata",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Wayteca/Chono",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Salta",
+      "mujeres_indigenas": 72235,
+      "pct_nacional": 10.71,
+      "pueblos": [
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 18087,
+          "pct_provincia": 25.04,
+          "pct_nacional": 2.682
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 16004,
+          "pct_provincia": 22.16,
+          "pct_nacional": 2.373
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 11097,
+          "pct_provincia": 15.36,
+          "pct_nacional": 1.645
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 10750,
+          "pct_provincia": 14.88,
+          "pct_nacional": 1.594
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 8282,
+          "pct_provincia": 11.47,
+          "pct_nacional": 1.228
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 1489,
+          "pct_provincia": 2.06,
+          "pct_nacional": 0.221
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 1467,
+          "pct_provincia": 2.03,
+          "pct_nacional": 0.218
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 960,
+          "pct_provincia": 1.33,
+          "pct_nacional": 0.142
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 947,
+          "pct_provincia": 1.31,
+          "pct_nacional": 0.14
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 667,
+          "pct_provincia": 0.92,
+          "pct_nacional": 0.099
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 651,
+          "pct_provincia": 0.9,
+          "pct_nacional": 0.097
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 523,
+          "pct_provincia": 0.72,
+          "pct_nacional": 0.078
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 312,
+          "pct_provincia": 0.43,
+          "pct_nacional": 0.046
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 186,
+          "pct_provincia": 0.26,
+          "pct_nacional": 0.028
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 170,
+          "pct_provincia": 0.24,
+          "pct_nacional": 0.025
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 167,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.025
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 134,
+          "pct_provincia": 0.19,
+          "pct_nacional": 0.02
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 62,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 51,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 34,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 28,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 17,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 16,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 15,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 15,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 12,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 12,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 12,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 10,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 9,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 7,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 7,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 6,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 6,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 3,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 3,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 2,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Jujuy",
+      "mujeres_indigenas": 41994,
+      "pct_nacional": 6.23,
+      "pueblos": [
+        {
+          "pueblo": "Kolla",
+          "mujeres": 16870,
+          "pct_provincia": 40.17,
+          "pct_nacional": 2.501
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 9378,
+          "pct_provincia": 22.33,
+          "pct_nacional": 1.39
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 4811,
+          "pct_provincia": 11.46,
+          "pct_nacional": 0.713
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 3879,
+          "pct_provincia": 9.24,
+          "pct_nacional": 0.575
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 2010,
+          "pct_provincia": 4.79,
+          "pct_nacional": 0.298
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 1766,
+          "pct_provincia": 4.21,
+          "pct_nacional": 0.262
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 824,
+          "pct_provincia": 1.96,
+          "pct_nacional": 0.122
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 775,
+          "pct_provincia": 1.85,
+          "pct_nacional": 0.115
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 348,
+          "pct_provincia": 0.83,
+          "pct_nacional": 0.052
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 286,
+          "pct_provincia": 0.68,
+          "pct_nacional": 0.042
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 200,
+          "pct_provincia": 0.48,
+          "pct_nacional": 0.03
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 142,
+          "pct_provincia": 0.34,
+          "pct_nacional": 0.021
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 117,
+          "pct_provincia": 0.28,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 116,
+          "pct_provincia": 0.28,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 98,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.015
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 83,
+          "pct_provincia": 0.2,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 46,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 38,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 28,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 19,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Churumata",
+          "mujeres": 19,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 17,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Jujuí",
+          "mujeres": 14,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 13,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 10,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 10,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 9,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 8,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 8,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 6,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 6,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 6,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 5,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 5,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 5,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 2,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 2,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Ciudad Autónoma de Buenos Aires",
+      "mujeres_indigenas": 39957,
+      "pct_nacional": 5.92,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 16113,
+          "pct_provincia": 40.33,
+          "pct_nacional": 2.389
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 5367,
+          "pct_provincia": 13.43,
+          "pct_nacional": 0.796
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 4414,
+          "pct_provincia": 11.05,
+          "pct_nacional": 0.654
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 3275,
+          "pct_provincia": 8.2,
+          "pct_nacional": 0.486
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 2187,
+          "pct_provincia": 5.47,
+          "pct_nacional": 0.324
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 1964,
+          "pct_provincia": 4.92,
+          "pct_nacional": 0.291
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 1400,
+          "pct_provincia": 3.5,
+          "pct_nacional": 0.208
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 813,
+          "pct_provincia": 2.03,
+          "pct_nacional": 0.121
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 767,
+          "pct_provincia": 1.92,
+          "pct_nacional": 0.114
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 490,
+          "pct_provincia": 1.23,
+          "pct_nacional": 0.073
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 457,
+          "pct_provincia": 1.14,
+          "pct_nacional": 0.068
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 456,
+          "pct_provincia": 1.14,
+          "pct_nacional": 0.068
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 434,
+          "pct_provincia": 1.09,
+          "pct_nacional": 0.064
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 424,
+          "pct_provincia": 1.06,
+          "pct_nacional": 0.063
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 342,
+          "pct_provincia": 0.86,
+          "pct_nacional": 0.051
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 119,
+          "pct_provincia": 0.3,
+          "pct_nacional": 0.018
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 105,
+          "pct_provincia": 0.26,
+          "pct_nacional": 0.016
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 80,
+          "pct_provincia": 0.2,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 69,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 63,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 59,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 56,
+          "pct_provincia": 0.14,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 54,
+          "pct_provincia": 0.14,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 49,
+          "pct_provincia": 0.12,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 49,
+          "pct_provincia": 0.12,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 40,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 37,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 35,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 35,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 31,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 25,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 22,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 18,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 16,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 14,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 14,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 12,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 9,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 7,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 7,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 5,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 5,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Minuán",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Isoceño",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Michilingüe",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Churumata",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Jujuí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Córdoba",
+      "mujeres_indigenas": 37123,
+      "pct_nacional": 5.5,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 15621,
+          "pct_provincia": 42.08,
+          "pct_nacional": 2.316
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 9205,
+          "pct_provincia": 24.8,
+          "pct_nacional": 1.365
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 1773,
+          "pct_provincia": 4.78,
+          "pct_nacional": 0.263
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 1641,
+          "pct_provincia": 4.42,
+          "pct_nacional": 0.243
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 1469,
+          "pct_provincia": 3.96,
+          "pct_nacional": 0.218
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 1317,
+          "pct_provincia": 3.55,
+          "pct_nacional": 0.195
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 1031,
+          "pct_provincia": 2.78,
+          "pct_nacional": 0.153
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 876,
+          "pct_provincia": 2.36,
+          "pct_nacional": 0.13
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 748,
+          "pct_provincia": 2.01,
+          "pct_nacional": 0.111
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 725,
+          "pct_provincia": 1.95,
+          "pct_nacional": 0.107
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 401,
+          "pct_provincia": 1.08,
+          "pct_nacional": 0.059
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 394,
+          "pct_provincia": 1.06,
+          "pct_nacional": 0.058
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 352,
+          "pct_provincia": 0.95,
+          "pct_nacional": 0.052
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 273,
+          "pct_provincia": 0.74,
+          "pct_nacional": 0.04
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 242,
+          "pct_provincia": 0.65,
+          "pct_nacional": 0.036
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 191,
+          "pct_provincia": 0.51,
+          "pct_nacional": 0.028
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 165,
+          "pct_provincia": 0.44,
+          "pct_nacional": 0.024
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 95,
+          "pct_provincia": 0.26,
+          "pct_nacional": 0.014
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 79,
+          "pct_provincia": 0.21,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 60,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 57,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 49,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 42,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 36,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 35,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 29,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 26,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 21,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 20,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 20,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 16,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 15,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 13,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 12,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 11,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 10,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 10,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 7,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 7,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 5,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Wayteca/Chono",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Jujuí",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Michilingüe",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Isoceño",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Santa Fe",
+      "mujeres_indigenas": 29867,
+      "pct_nacional": 4.43,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 13127,
+          "pct_provincia": 43.95,
+          "pct_nacional": 1.946
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 5779,
+          "pct_provincia": 19.35,
+          "pct_nacional": 0.857
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 3999,
+          "pct_provincia": 13.39,
+          "pct_nacional": 0.593
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 2181,
+          "pct_provincia": 7.3,
+          "pct_nacional": 0.323
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 793,
+          "pct_provincia": 2.66,
+          "pct_nacional": 0.118
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 657,
+          "pct_provincia": 2.2,
+          "pct_nacional": 0.097
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 641,
+          "pct_provincia": 2.15,
+          "pct_nacional": 0.095
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 533,
+          "pct_provincia": 1.78,
+          "pct_nacional": 0.079
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 266,
+          "pct_provincia": 0.89,
+          "pct_nacional": 0.039
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 242,
+          "pct_provincia": 0.81,
+          "pct_nacional": 0.036
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 202,
+          "pct_provincia": 0.68,
+          "pct_nacional": 0.03
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 172,
+          "pct_provincia": 0.58,
+          "pct_nacional": 0.026
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 153,
+          "pct_provincia": 0.51,
+          "pct_nacional": 0.023
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 133,
+          "pct_provincia": 0.45,
+          "pct_nacional": 0.02
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 128,
+          "pct_provincia": 0.43,
+          "pct_nacional": 0.019
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 118,
+          "pct_provincia": 0.4,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 118,
+          "pct_provincia": 0.4,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 113,
+          "pct_provincia": 0.38,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 75,
+          "pct_provincia": 0.25,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 58,
+          "pct_provincia": 0.19,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 53,
+          "pct_provincia": 0.18,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 46,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 36,
+          "pct_provincia": 0.12,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 24,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 22,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 21,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 20,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 19,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 16,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 15,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 14,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 12,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 11,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 11,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 10,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 7,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 7,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Minuán",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Michilingüe",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Wayteca/Chono",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Chaco",
+      "mujeres_indigenas": 27472,
+      "pct_nacional": 4.07,
+      "pueblos": [
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 16571,
+          "pct_provincia": 60.32,
+          "pct_nacional": 2.457
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 4625,
+          "pct_provincia": 16.84,
+          "pct_nacional": 0.686
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 3244,
+          "pct_provincia": 11.81,
+          "pct_nacional": 0.481
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 2153,
+          "pct_provincia": 7.84,
+          "pct_nacional": 0.319
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 434,
+          "pct_provincia": 1.58,
+          "pct_nacional": 0.064
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 89,
+          "pct_provincia": 0.32,
+          "pct_nacional": 0.013
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 86,
+          "pct_provincia": 0.31,
+          "pct_nacional": 0.013
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 59,
+          "pct_provincia": 0.21,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 23,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 21,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 19,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 16,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 16,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 13,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 12,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 11,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 10,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 10,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 10,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 7,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Neuquén",
+      "mujeres_indigenas": 27378,
+      "pct_nacional": 4.06,
+      "pueblos": [
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 20260,
+          "pct_provincia": 74.0,
+          "pct_nacional": 3.004
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 3615,
+          "pct_provincia": 13.2,
+          "pct_nacional": 0.536
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 1448,
+          "pct_provincia": 5.29,
+          "pct_nacional": 0.215
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 397,
+          "pct_provincia": 1.45,
+          "pct_nacional": 0.059
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 349,
+          "pct_provincia": 1.27,
+          "pct_nacional": 0.052
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 339,
+          "pct_provincia": 1.24,
+          "pct_nacional": 0.05
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 204,
+          "pct_provincia": 0.75,
+          "pct_nacional": 0.03
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 124,
+          "pct_provincia": 0.45,
+          "pct_nacional": 0.018
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 103,
+          "pct_provincia": 0.38,
+          "pct_nacional": 0.015
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 98,
+          "pct_provincia": 0.36,
+          "pct_nacional": 0.015
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 84,
+          "pct_provincia": 0.31,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 70,
+          "pct_provincia": 0.26,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 68,
+          "pct_provincia": 0.25,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 54,
+          "pct_provincia": 0.2,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 28,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 26,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 20,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 11,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 7,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 4,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Minuán",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Río Negro",
+      "mujeres_indigenas": 24521,
+      "pct_nacional": 3.64,
+      "pueblos": [
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 15534,
+          "pct_provincia": 63.35,
+          "pct_nacional": 2.303
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 4068,
+          "pct_provincia": 16.59,
+          "pct_nacional": 0.603
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 2297,
+          "pct_provincia": 9.37,
+          "pct_nacional": 0.341
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 933,
+          "pct_provincia": 3.8,
+          "pct_nacional": 0.138
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 393,
+          "pct_provincia": 1.6,
+          "pct_nacional": 0.058
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 311,
+          "pct_provincia": 1.27,
+          "pct_nacional": 0.046
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 167,
+          "pct_provincia": 0.68,
+          "pct_nacional": 0.025
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 127,
+          "pct_provincia": 0.52,
+          "pct_nacional": 0.019
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 116,
+          "pct_provincia": 0.47,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 86,
+          "pct_provincia": 0.35,
+          "pct_nacional": 0.013
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 83,
+          "pct_provincia": 0.34,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 80,
+          "pct_provincia": 0.33,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 80,
+          "pct_provincia": 0.33,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 44,
+          "pct_provincia": 0.18,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 41,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 34,
+          "pct_provincia": 0.14,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 34,
+          "pct_provincia": 0.14,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 16,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 12,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 10,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 7,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Alakaluf",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Formosa",
+      "mujeres_indigenas": 24108,
+      "pct_nacional": 3.57,
+      "pueblos": [
+        {
+          "pueblo": "Wichi",
+          "mujeres": 11462,
+          "pct_provincia": 47.54,
+          "pct_nacional": 1.699
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 7398,
+          "pct_provincia": 30.69,
+          "pct_nacional": 1.097
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 2962,
+          "pct_provincia": 12.29,
+          "pct_nacional": 0.439
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 1575,
+          "pct_provincia": 6.53,
+          "pct_nacional": 0.234
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 309,
+          "pct_provincia": 1.28,
+          "pct_nacional": 0.046
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 254,
+          "pct_provincia": 1.05,
+          "pct_nacional": 0.038
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 21,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 16,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 12,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 12,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 12,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 9,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 7,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mak'A",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Chubut",
+      "mujeres_indigenas": 24069,
+      "pct_nacional": 3.57,
+      "pueblos": [
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 12409,
+          "pct_provincia": 51.56,
+          "pct_nacional": 1.84
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 4044,
+          "pct_provincia": 16.8,
+          "pct_nacional": 0.6
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 3091,
+          "pct_provincia": 12.84,
+          "pct_nacional": 0.458
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 2344,
+          "pct_provincia": 9.74,
+          "pct_nacional": 0.348
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 528,
+          "pct_provincia": 2.19,
+          "pct_nacional": 0.078
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 358,
+          "pct_provincia": 1.49,
+          "pct_nacional": 0.053
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 306,
+          "pct_provincia": 1.27,
+          "pct_nacional": 0.045
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 193,
+          "pct_provincia": 0.8,
+          "pct_nacional": 0.029
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 116,
+          "pct_provincia": 0.48,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 105,
+          "pct_provincia": 0.44,
+          "pct_nacional": 0.016
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 83,
+          "pct_provincia": 0.34,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 82,
+          "pct_provincia": 0.34,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 73,
+          "pct_provincia": 0.3,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 62,
+          "pct_provincia": 0.26,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 58,
+          "pct_provincia": 0.24,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 50,
+          "pct_provincia": 0.21,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 32,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 16,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 15,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 15,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 11,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 8,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 7,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 6,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Wayteca/Chono",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Haush/Maneken",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Minuán",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Mendoza",
+      "mujeres_indigenas": 23275,
+      "pct_nacional": 3.45,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 9957,
+          "pct_provincia": 42.78,
+          "pct_nacional": 1.476
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 6773,
+          "pct_provincia": 29.1,
+          "pct_nacional": 1.004
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 2324,
+          "pct_provincia": 9.98,
+          "pct_nacional": 0.345
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 1592,
+          "pct_provincia": 6.84,
+          "pct_nacional": 0.236
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 542,
+          "pct_provincia": 2.33,
+          "pct_nacional": 0.08
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 376,
+          "pct_provincia": 1.62,
+          "pct_nacional": 0.056
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 343,
+          "pct_provincia": 1.47,
+          "pct_nacional": 0.051
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 240,
+          "pct_provincia": 1.03,
+          "pct_nacional": 0.036
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 197,
+          "pct_provincia": 0.85,
+          "pct_nacional": 0.029
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 162,
+          "pct_provincia": 0.7,
+          "pct_nacional": 0.024
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 162,
+          "pct_provincia": 0.7,
+          "pct_nacional": 0.024
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 149,
+          "pct_provincia": 0.64,
+          "pct_nacional": 0.022
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 125,
+          "pct_provincia": 0.54,
+          "pct_nacional": 0.019
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 92,
+          "pct_provincia": 0.4,
+          "pct_nacional": 0.014
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 40,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 38,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 20,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 19,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 17,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 15,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 10,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 9,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 7,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 7,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 6,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 6,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 5,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 3,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Michilingüe",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ansilta",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Minuán",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 1,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Churumata",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Tucumán",
+      "mujeres_indigenas": 19129,
+      "pct_nacional": 2.84,
+      "pueblos": [
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 10120,
+          "pct_provincia": 52.9,
+          "pct_nacional": 1.5
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 7285,
+          "pct_provincia": 38.08,
+          "pct_nacional": 1.08
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 239,
+          "pct_provincia": 1.25,
+          "pct_nacional": 0.035
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 222,
+          "pct_provincia": 1.16,
+          "pct_nacional": 0.033
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 208,
+          "pct_provincia": 1.09,
+          "pct_nacional": 0.031
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 166,
+          "pct_provincia": 0.87,
+          "pct_nacional": 0.025
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 160,
+          "pct_provincia": 0.84,
+          "pct_nacional": 0.024
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 152,
+          "pct_provincia": 0.79,
+          "pct_nacional": 0.023
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 115,
+          "pct_provincia": 0.6,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 115,
+          "pct_provincia": 0.6,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 67,
+          "pct_provincia": 0.35,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 33,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 30,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 30,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 24,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 21,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 21,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 20,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 19,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 18,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 12,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 12,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 6,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 5,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 5,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 4,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Santiago del Estero",
+      "mujeres_indigenas": 13677,
+      "pct_nacional": 2.03,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 4442,
+          "pct_provincia": 32.48,
+          "pct_nacional": 0.659
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 4391,
+          "pct_provincia": 32.1,
+          "pct_nacional": 0.651
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 1661,
+          "pct_provincia": 12.14,
+          "pct_nacional": 0.246
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 819,
+          "pct_provincia": 5.99,
+          "pct_nacional": 0.121
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 557,
+          "pct_provincia": 4.07,
+          "pct_nacional": 0.083
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 451,
+          "pct_provincia": 3.3,
+          "pct_nacional": 0.067
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 349,
+          "pct_provincia": 2.55,
+          "pct_nacional": 0.052
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 316,
+          "pct_provincia": 2.31,
+          "pct_nacional": 0.047
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 123,
+          "pct_provincia": 0.9,
+          "pct_nacional": 0.018
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 92,
+          "pct_provincia": 0.67,
+          "pct_nacional": 0.014
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 72,
+          "pct_provincia": 0.53,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 72,
+          "pct_provincia": 0.53,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 57,
+          "pct_provincia": 0.42,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 42,
+          "pct_provincia": 0.31,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 32,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 30,
+          "pct_provincia": 0.22,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 28,
+          "pct_provincia": 0.2,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 23,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 22,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 22,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 15,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 11,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 11,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 9,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 7,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 6,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 4,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 2,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Isoceño",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Misiones",
+      "mujeres_indigenas": 12968,
+      "pct_nacional": 1.92,
+      "pueblos": [
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 4948,
+          "pct_provincia": 38.16,
+          "pct_nacional": 0.734
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 4155,
+          "pct_provincia": 32.04,
+          "pct_nacional": 0.616
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 3371,
+          "pct_provincia": 25.99,
+          "pct_nacional": 0.5
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 97,
+          "pct_provincia": 0.75,
+          "pct_nacional": 0.014
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 69,
+          "pct_provincia": 0.53,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 50,
+          "pct_provincia": 0.39,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 33,
+          "pct_provincia": 0.25,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 32,
+          "pct_provincia": 0.25,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 24,
+          "pct_provincia": 0.19,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 21,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 21,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 20,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 14,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 13,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 13,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 12,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 11,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 7,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 6,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 6,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 5,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 4,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 4,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 3,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 3,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 3,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 3,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 3,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mak'A",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Entre Ríos",
+      "mujeres_indigenas": 10078,
+      "pct_nacional": 1.49,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 5280,
+          "pct_provincia": 52.39,
+          "pct_nacional": 0.783
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 1648,
+          "pct_provincia": 16.35,
+          "pct_nacional": 0.244
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 1424,
+          "pct_provincia": 14.13,
+          "pct_nacional": 0.211
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 286,
+          "pct_provincia": 2.84,
+          "pct_nacional": 0.042
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 270,
+          "pct_provincia": 2.68,
+          "pct_nacional": 0.04
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 264,
+          "pct_provincia": 2.62,
+          "pct_nacional": 0.039
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 116,
+          "pct_provincia": 1.15,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 109,
+          "pct_provincia": 1.08,
+          "pct_nacional": 0.016
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 106,
+          "pct_provincia": 1.05,
+          "pct_nacional": 0.016
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 78,
+          "pct_provincia": 0.77,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 70,
+          "pct_provincia": 0.69,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 61,
+          "pct_provincia": 0.61,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 56,
+          "pct_provincia": 0.56,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 41,
+          "pct_provincia": 0.41,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 38,
+          "pct_provincia": 0.38,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 36,
+          "pct_provincia": 0.36,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 28,
+          "pct_provincia": 0.28,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 23,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Minuán",
+          "mujeres": 18,
+          "pct_provincia": 0.18,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 15,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 15,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 13,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 13,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 11,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 10,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 8,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 5,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 5,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 4,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 4,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 3,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 3,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 3,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Catamarca",
+      "mujeres_indigenas": 9977,
+      "pct_nacional": 1.48,
+      "pueblos": [
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 6034,
+          "pct_provincia": 60.48,
+          "pct_nacional": 0.895
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 3055,
+          "pct_provincia": 30.62,
+          "pct_nacional": 0.453
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 190,
+          "pct_provincia": 1.9,
+          "pct_nacional": 0.028
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 150,
+          "pct_provincia": 1.5,
+          "pct_nacional": 0.022
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 126,
+          "pct_provincia": 1.26,
+          "pct_nacional": 0.019
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 67,
+          "pct_provincia": 0.67,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 55,
+          "pct_provincia": 0.55,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 53,
+          "pct_provincia": 0.53,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 45,
+          "pct_provincia": 0.45,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 33,
+          "pct_provincia": 0.33,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 28,
+          "pct_provincia": 0.28,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 23,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 17,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 13,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 13,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 13,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 12,
+          "pct_provincia": 0.12,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 8,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 7,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 5,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 4,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 3,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 3,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 3,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 3,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Jujuí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "La Pampa",
+      "mujeres_indigenas": 8325,
+      "pct_nacional": 1.23,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 3174,
+          "pct_provincia": 38.13,
+          "pct_nacional": 0.471
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 2832,
+          "pct_provincia": 34.02,
+          "pct_nacional": 0.42
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 1340,
+          "pct_provincia": 16.1,
+          "pct_nacional": 0.199
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 235,
+          "pct_provincia": 2.82,
+          "pct_nacional": 0.035
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 192,
+          "pct_provincia": 2.31,
+          "pct_nacional": 0.028
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 122,
+          "pct_provincia": 1.47,
+          "pct_nacional": 0.018
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 63,
+          "pct_provincia": 0.76,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 62,
+          "pct_provincia": 0.74,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 45,
+          "pct_provincia": 0.54,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 42,
+          "pct_provincia": 0.5,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 41,
+          "pct_provincia": 0.49,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 32,
+          "pct_provincia": 0.38,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 29,
+          "pct_provincia": 0.35,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 25,
+          "pct_provincia": 0.3,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 24,
+          "pct_provincia": 0.29,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 19,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 14,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 9,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 7,
+          "pct_provincia": 0.08,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 4,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Corrientes",
+      "mujeres_indigenas": 8203,
+      "pct_nacional": 1.22,
+      "pueblos": [
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 4194,
+          "pct_provincia": 51.13,
+          "pct_nacional": 0.622
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 3122,
+          "pct_provincia": 38.06,
+          "pct_nacional": 0.463
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 326,
+          "pct_provincia": 3.97,
+          "pct_nacional": 0.048
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 79,
+          "pct_provincia": 0.96,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 74,
+          "pct_provincia": 0.9,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 62,
+          "pct_provincia": 0.76,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 49,
+          "pct_provincia": 0.6,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 40,
+          "pct_provincia": 0.49,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 30,
+          "pct_provincia": 0.37,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 26,
+          "pct_provincia": 0.32,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 24,
+          "pct_provincia": 0.29,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 22,
+          "pct_provincia": 0.27,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 20,
+          "pct_provincia": 0.24,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 19,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 18,
+          "pct_provincia": 0.22,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 17,
+          "pct_provincia": 0.21,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 14,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 14,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 8,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 5,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 4,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 4,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 4,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 4,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 2,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Isoceño",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "San Juan",
+      "mujeres_indigenas": 7256,
+      "pct_nacional": 1.08,
+      "pueblos": [
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 3225,
+          "pct_provincia": 44.45,
+          "pct_nacional": 0.478
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 2735,
+          "pct_provincia": 37.69,
+          "pct_nacional": 0.406
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 710,
+          "pct_provincia": 9.79,
+          "pct_nacional": 0.105
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 184,
+          "pct_provincia": 2.54,
+          "pct_nacional": 0.027
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 125,
+          "pct_provincia": 1.72,
+          "pct_nacional": 0.019
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 68,
+          "pct_provincia": 0.94,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 27,
+          "pct_provincia": 0.37,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 24,
+          "pct_provincia": 0.33,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 21,
+          "pct_provincia": 0.29,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 19,
+          "pct_provincia": 0.26,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 17,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 16,
+          "pct_provincia": 0.22,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 14,
+          "pct_provincia": 0.19,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 12,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 12,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 5,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 5,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 5,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 4,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 4,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 3,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 1,
+          "pct_provincia": 0.01,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ansilta",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Santa Cruz",
+      "mujeres_indigenas": 6160,
+      "pct_nacional": 0.91,
+      "pueblos": [
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 1638,
+          "pct_provincia": 26.59,
+          "pct_nacional": 0.243
+        },
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 1563,
+          "pct_provincia": 25.37,
+          "pct_nacional": 0.232
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 861,
+          "pct_provincia": 13.98,
+          "pct_nacional": 0.128
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 534,
+          "pct_provincia": 8.67,
+          "pct_nacional": 0.079
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 332,
+          "pct_provincia": 5.39,
+          "pct_nacional": 0.049
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 309,
+          "pct_provincia": 5.02,
+          "pct_nacional": 0.046
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 221,
+          "pct_provincia": 3.59,
+          "pct_nacional": 0.033
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 216,
+          "pct_provincia": 3.51,
+          "pct_nacional": 0.032
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 87,
+          "pct_provincia": 1.41,
+          "pct_nacional": 0.013
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 77,
+          "pct_provincia": 1.25,
+          "pct_nacional": 0.011
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 60,
+          "pct_provincia": 0.97,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 41,
+          "pct_provincia": 0.67,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 33,
+          "pct_provincia": 0.54,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 23,
+          "pct_provincia": 0.37,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 21,
+          "pct_provincia": 0.34,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 19,
+          "pct_provincia": 0.31,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 18,
+          "pct_provincia": 0.29,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 18,
+          "pct_provincia": 0.29,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 10,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 9,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 8,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 7,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 7,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 4,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Alakaluf",
+          "mujeres": 3,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 3,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 3,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 3,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 3,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 3,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 3,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mak'A",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Wayteca/Chono",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 2,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Iogys",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tapiete",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Fiscara",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "La Rioja",
+      "mujeres_indigenas": 5416,
+      "pct_nacional": 0.8,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 2545,
+          "pct_provincia": 46.99,
+          "pct_nacional": 0.377
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 2160,
+          "pct_provincia": 39.88,
+          "pct_nacional": 0.32
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 103,
+          "pct_provincia": 1.9,
+          "pct_nacional": 0.015
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 102,
+          "pct_provincia": 1.88,
+          "pct_nacional": 0.015
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 93,
+          "pct_provincia": 1.72,
+          "pct_nacional": 0.014
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 80,
+          "pct_provincia": 1.48,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 68,
+          "pct_provincia": 1.26,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 62,
+          "pct_provincia": 1.14,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 50,
+          "pct_provincia": 0.92,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 34,
+          "pct_provincia": 0.63,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 18,
+          "pct_provincia": 0.33,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 17,
+          "pct_provincia": 0.31,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 17,
+          "pct_provincia": 0.31,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 15,
+          "pct_provincia": 0.28,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 8,
+          "pct_provincia": 0.15,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 7,
+          "pct_provincia": 0.13,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 6,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 5,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 5,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 5,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 3,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 3,
+          "pct_provincia": 0.06,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 2,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 2,
+          "pct_provincia": 0.04,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tilián",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "San Luis",
+      "mujeres_indigenas": 4358,
+      "pct_nacional": 0.65,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 1333,
+          "pct_provincia": 30.59,
+          "pct_nacional": 0.198
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 693,
+          "pct_provincia": 15.9,
+          "pct_nacional": 0.103
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 640,
+          "pct_provincia": 14.69,
+          "pct_nacional": 0.095
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 491,
+          "pct_provincia": 11.27,
+          "pct_nacional": 0.073
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 329,
+          "pct_provincia": 7.55,
+          "pct_nacional": 0.049
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 219,
+          "pct_provincia": 5.03,
+          "pct_nacional": 0.032
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 139,
+          "pct_provincia": 3.19,
+          "pct_nacional": 0.021
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 116,
+          "pct_provincia": 2.66,
+          "pct_nacional": 0.017
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 84,
+          "pct_provincia": 1.93,
+          "pct_nacional": 0.012
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 48,
+          "pct_provincia": 1.1,
+          "pct_nacional": 0.007
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 41,
+          "pct_provincia": 0.94,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 38,
+          "pct_provincia": 0.87,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 33,
+          "pct_provincia": 0.76,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 28,
+          "pct_provincia": 0.64,
+          "pct_nacional": 0.004
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 20,
+          "pct_provincia": 0.46,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Michilingüe",
+          "mujeres": 15,
+          "pct_provincia": 0.34,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 11,
+          "pct_provincia": 0.25,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 10,
+          "pct_provincia": 0.23,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 9,
+          "pct_provincia": 0.21,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 8,
+          "pct_provincia": 0.18,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 7,
+          "pct_provincia": 0.16,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 6,
+          "pct_provincia": 0.14,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 5,
+          "pct_provincia": 0.11,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 4,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 4,
+          "pct_provincia": 0.09,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 3,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 3,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Corundí",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Weenhayek",
+          "mujeres": 2,
+          "pct_provincia": 0.05,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guarayo",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.02,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Pilagá",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Tastil",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    },
+    {
+      "provincia": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "mujeres_indigenas": 2908,
+      "pct_nacional": 0.43,
+      "pueblos": [
+        {
+          "pueblo": "Sin Información",
+          "mujeres": 677,
+          "pct_provincia": 23.28,
+          "pct_nacional": 0.1
+        },
+        {
+          "pueblo": "Mapuche",
+          "mujeres": 531,
+          "pct_provincia": 18.26,
+          "pct_nacional": 0.079
+        },
+        {
+          "pueblo": "Diaguita",
+          "mujeres": 359,
+          "pct_provincia": 12.35,
+          "pct_nacional": 0.053
+        },
+        {
+          "pueblo": "Selk´Nam/Ona",
+          "mujeres": 306,
+          "pct_provincia": 10.52,
+          "pct_nacional": 0.045
+        },
+        {
+          "pueblo": "Quechua",
+          "mujeres": 165,
+          "pct_provincia": 5.67,
+          "pct_nacional": 0.024
+        },
+        {
+          "pueblo": "Kolla",
+          "mujeres": 161,
+          "pct_provincia": 5.54,
+          "pct_nacional": 0.024
+        },
+        {
+          "pueblo": "Guaraní",
+          "mujeres": 154,
+          "pct_provincia": 5.3,
+          "pct_nacional": 0.023
+        },
+        {
+          "pueblo": "Mapuche Tehuelche",
+          "mujeres": 95,
+          "pct_provincia": 3.27,
+          "pct_nacional": 0.014
+        },
+        {
+          "pueblo": "Qom/Toba",
+          "mujeres": 66,
+          "pct_provincia": 2.27,
+          "pct_nacional": 0.01
+        },
+        {
+          "pueblo": "Tehuelche",
+          "mujeres": 58,
+          "pct_provincia": 1.99,
+          "pct_nacional": 0.009
+        },
+        {
+          "pueblo": "Huarpe",
+          "mujeres": 56,
+          "pct_provincia": 1.93,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Comechingón",
+          "mujeres": 51,
+          "pct_provincia": 1.75,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Yagán",
+          "mujeres": 51,
+          "pct_provincia": 1.75,
+          "pct_nacional": 0.008
+        },
+        {
+          "pueblo": "Wichi",
+          "mujeres": 40,
+          "pct_provincia": 1.38,
+          "pct_nacional": 0.006
+        },
+        {
+          "pueblo": "Aymara",
+          "mujeres": 31,
+          "pct_provincia": 1.07,
+          "pct_nacional": 0.005
+        },
+        {
+          "pueblo": "Omaguaca",
+          "mujeres": 22,
+          "pct_provincia": 0.76,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Ranquel",
+          "mujeres": 17,
+          "pct_provincia": 0.58,
+          "pct_nacional": 0.003
+        },
+        {
+          "pueblo": "Charrúa",
+          "mujeres": 13,
+          "pct_provincia": 0.45,
+          "pct_nacional": 0.002
+        },
+        {
+          "pueblo": "Moqoit/Mocoví",
+          "mujeres": 10,
+          "pct_provincia": 0.34,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Atacama",
+          "mujeres": 9,
+          "pct_provincia": 0.31,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Aoniken",
+          "mujeres": 5,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Tonokoté",
+          "mujeres": 5,
+          "pct_provincia": 0.17,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Sanavirón",
+          "mujeres": 4,
+          "pct_provincia": 0.14,
+          "pct_nacional": 0.001
+        },
+        {
+          "pueblo": "Mbya Guaraní",
+          "mujeres": 3,
+          "pct_provincia": 0.1,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Alakaluf",
+          "mujeres": 2,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chana",
+          "mujeres": 2,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chané",
+          "mujeres": 2,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Guaycurú",
+          "mujeres": 2,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Ocloya",
+          "mujeres": 2,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Vilela",
+          "mujeres": 2,
+          "pct_provincia": 0.07,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Diaguita Cacano",
+          "mujeres": 1,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Günün A Küna",
+          "mujeres": 1,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Haush/Maneken",
+          "mujeres": 1,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Isoceño",
+          "mujeres": 1,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Kolla Atacameño",
+          "mujeres": 1,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule Vilela",
+          "mujeres": 1,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Querandí",
+          "mujeres": 1,
+          "pct_provincia": 0.03,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Avipón",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chicha",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chorote",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Chulupí/Nivaclé",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Lule",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Toara",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        },
+        {
+          "pueblo": "Wayteca/Chono",
+          "mujeres": 0,
+          "pct_provincia": 0.0,
+          "pct_nacional": 0.0
+        }
+      ]
+    }
+  ]
+}
