@@ -151,6 +151,35 @@ main {
   font-family: var(--font-display);
 }
 
+.mini-map {
+  width: 100%;
+  max-width: 130px;
+  margin: 0 auto 24px;
+}
+
+.mini-map svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.map-outline {
+  fill: #f0e7da;
+  stroke: #d8c9b5;
+  stroke-width: 2;
+}
+
+.map-dot {
+  fill: #c9b8a6;
+  transition: r 0.2s ease, fill 0.2s ease;
+}
+
+.map-dot-selected {
+  fill: var(--ceibo);
+  stroke: var(--dorado);
+  stroke-width: 2;
+}
+
 .pueblo-row {
   margin-bottom: 12px;
 }
