@@ -1,13 +1,3 @@
-// ---------------------------------------------------------------
-// Árbol de la Flor del Ceibo — mujeres indígenas por provincia
-// ---------------------------------------------------------------
-// Hoy las flores son círculos placeholder (SVG). El día que tengas
-// las flores pintadas, cada provincia puede sumar un campo "imagen"
-// (ej: "assets/flores/salta.png") y en createFlower() se reemplaza
-// el <circle> por un <image> apuntando a ese archivo, sin tocar
-// el resto de la lógica.
-// ---------------------------------------------------------------
-
 const SVG_NS = "http://www.w3.org/2000/svg";
 const CANOPY_CENTER = { x: 500, y: 300 };
 const RADIUS_RANGE = [14, 46];   // tamaño mínimo/máximo de flor en px
@@ -135,6 +125,7 @@ function renderPanel(prov) {
     <h2 class="panel-provincia">${prov.provincia}</h2>
     <p class="panel-total"><strong>${formatNumber(prov.mujeres_indigenas)}</strong> mujeres indígenas
     <br>${prov.pct_nacional}% del total nacional</p>
+    ${buildMiniMap(prov.provincia)}
     <div class="pueblos-list">
   `;
 
@@ -148,6 +139,28 @@ function renderPanel(prov) {
 
   html += `</div>`;
   content.innerHTML = html;
+}
+
+// ---------- Mini-mapa de Argentina ----------
+function buildMiniMap(provinciaSeleccionada) {
+  const dots = Object.entries(MAP_COORDS)
+    .map(([prov, [x, y]]) => {
+      const selected = prov === provinciaSeleccionada;
+      return `<circle
+        cx="${x}" cy="${y}" r="${selected ? 9 : 4}"
+        class="map-dot ${selected ? "map-dot-selected" : ""}"
+      ><title>${prov}</title></circle>`;
+    })
+    .join("");
+
+  return `
+    <div class="mini-map">
+      <svg viewBox="${MAP_VIEWBOX}" role="img" aria-label="Ubicación de ${provinciaSeleccionada} en el mapa de Argentina">
+        <path d="${MAP_OUTLINE}" class="map-outline" />
+        ${dots}
+      </svg>
+    </div>
+  `;
 }
 
 function buildPuebloRow(nombre, valor, pct) {
